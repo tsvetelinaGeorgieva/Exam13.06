@@ -1,0 +1,8 @@
+1.
+//gcc -E main.c - main.i
+//gcc -E car.c - car.i
+//gcc -E car.h - car.ii
+
+2
+//gcc -S car.i - car.s
+//gcc -c car.s - car.o
