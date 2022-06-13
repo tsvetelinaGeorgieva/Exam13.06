@@ -95,7 +95,7 @@ int main(){
     }
 
     for(int j = 0; j < count; j++){
-        printf("%c ", codNum[j]);
+        printf("%c", codNum[j]);
     }
     return 0;
 }
